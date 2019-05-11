@@ -1,4 +1,4 @@
-package me.dingxianye.android;
+package me.dingxianye.demo;
 
 import android.Manifest;
 import android.content.pm.PackageManager;
@@ -19,8 +19,9 @@ import android.view.View;
 import java.util.ArrayList;
 import java.util.List;
 
-import me.dingxianye.android.network.BadNetworkCase;
-import me.dingxianye.android.network.DxNetworkUtil;
+import me.dingxianye.android.R;
+import me.dingxianye.demo.network.BadNetworkCase;
+import me.dingxianye.demo.network.DxNetworkUtil;
 
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {

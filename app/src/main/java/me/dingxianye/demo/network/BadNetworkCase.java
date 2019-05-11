@@ -1,4 +1,4 @@
-package me.dingxianye.android.network;
+package me.dingxianye.demo.network;
 
 import android.content.Context;
 import android.net.ConnectivityManager;

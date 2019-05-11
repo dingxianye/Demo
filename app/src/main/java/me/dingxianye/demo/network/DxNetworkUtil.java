@@ -1,4 +1,4 @@
-package me.dingxianye.android.network;
+package me.dingxianye.demo.network;
 
 import java.io.BufferedReader;
 import java.io.IOException;

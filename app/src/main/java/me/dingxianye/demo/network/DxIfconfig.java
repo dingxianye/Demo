@@ -1,4 +1,4 @@
-package me.dingxianye.android.network;
+package me.dingxianye.demo.network;
 
 public class DxIfconfig {
     public String inetAddr; // ip
